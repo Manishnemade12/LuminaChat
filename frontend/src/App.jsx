@@ -183,7 +183,7 @@ function App() {
                 ))}
                 <div ref={messagesEndRef} />
             </div>
-
+{/* loading and isloading */}
             {isLoading && <div className="loading-indicator">AI is thinking...</div>}
             {error && <div className="error-message">Error: {error}</div>}
 
