@@ -72,3 +72,10 @@ gcloud auth application-default login
 | `/gemini-ai-wrapper/v1/conversation`      | GET    | Get all conversations            |
 
 
+
+VITE_API_BASE_URL=https://hakathon-vzt0.onrender.com/
+VITE_VAPI_PUBLIC_KEY= 74608138-63d8-4b0c-a203-774c47a2e3e1
+VITE_VAPI_ASSISTANT_ID=fcc3961a-5dcf-4c63-9eed-c57397438b4f
+VITE_GEMINI_API_KEY=AIzaSyAlH6fGlkav2uGJckN3diEO1HGAhzztYME
+
+VITE_CLERK_PUBLISHABLE_KEY= pk_test_Y3V0ZS1kcmFnb24tODYuY2xlcmsuYWNjb3VudHMuZGV2JA
